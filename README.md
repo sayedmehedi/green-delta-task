@@ -5,7 +5,7 @@
 
 ## Output
 
-<img src="screenshots/record.gif" alt="app"/>
+<img src="screenshots/record2.gif" alt="app"/>
 
 
 [Download the apk](https://drive.google.com/file/d/1RGYhHP7XxhsfRb341N4Sc-tduadX3Ujd/view?usp=sharing)
