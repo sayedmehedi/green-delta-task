@@ -33,8 +33,8 @@ const CommonBtn = ({
         styles.container,
         {
           backgroundColor: backgroundColor ? backgroundColor : '#888',
-          borderRadius: borderRadius ? borderRadius : 9,
-          paddingVertical: 12,
+          borderRadius: borderRadius ? borderRadius : 9 ,
+          paddingVertical:  12,
           borderColor: borderColor ? borderColor : Colors.PRIMARY_COLOR,
         },
       ]}>
